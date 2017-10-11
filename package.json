@@ -1,0 +1,16 @@
+{
+  "name": "fartbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.28.0",
+    "validator": "^9.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "iwan.ku96@yandex.ru",
+  "license": "ISC"
+}
